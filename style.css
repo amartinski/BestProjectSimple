@@ -1045,7 +1045,7 @@ header {
 }
 
 .bg-icon-mobile::after {
-  background-image: url("../svg/icon-mobile.svg");
+  background-image: url("svg/icon-mobile.svg");
   background-size: cover;
   -webkit-transition: 0.5s ease;
   transition: 0.5s ease;
@@ -1060,7 +1060,7 @@ header {
 }
 
 .bg-icon-time::after {
-  background-image: url("../svg/icon-time.svg");
+  background-image: url("svg/icon-time.svg");
   background-size: cover;
   -webkit-transition: 0.5s ease;
   transition: 0.5s ease;
@@ -1075,7 +1075,7 @@ header {
 }
 
 .bg-icon-config::after {
-  background-image: url("../svg/icon-config.svg");
+  background-image: url("svg/icon-config.svg");
   background-size: cover;
   -webkit-transition: 0.5s ease;
   transition: 0.5s ease;
@@ -1090,7 +1090,7 @@ header {
 }
 
 .bg-icon-contactless::after {
-  background-image: url("../svg/icon-contactless.svg");
+  background-image: url("svg/icon-contactless.svg");
   background-size: cover;
   -webkit-transition: 0.5s ease;
   transition: 0.5s ease;
@@ -1105,7 +1105,7 @@ header {
 }
 
 .bg-icon-card::after {
-  background-image: url("../svg/icon-card.svg");
+  background-image: url("svg/icon-card.svg");
   background-size: cover;
   -webkit-transition: 0.5s ease;
   transition: 0.5s ease;
@@ -1120,7 +1120,7 @@ header {
 }
 
 .bg-icon-check::after {
-  background-image: url("../svg/icon-check.svg");
+  background-image: url("svg/icon-check.svg");
   background-size: cover;
   -webkit-transition: 0.5s ease;
   transition: 0.5s ease;

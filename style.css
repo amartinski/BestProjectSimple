@@ -4,7 +4,9 @@
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
 }
-
+.none{
+  opacity: 0;
+}
 .container {
   max-width: 1440px;
   margin: 0 auto;
